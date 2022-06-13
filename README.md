@@ -1,3 +1,5 @@
+fabric-loader-1.8.9 has not been used in a long time. upstream loader works now with legacy versions, and this repository is deprecated.
+
 fabric-loader
 ===========
 
